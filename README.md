@@ -4,7 +4,7 @@
 
 ## Que hago
 
-Diseno y desarrollo sistemas y sitios web a medida: aplicaciones para organismos publicos, salud y comercio, plataformas SaaS, asistentes de IA para WhatsApp y herramientas de gestion.
+Diseño y desarrollo sistemas y sitios web a medida: aplicaciones para organismos publicos, salud y comercio, plataformas SaaS, asistentes de IA para WhatsApp y herramientas de gestion.
 
 ## Areas en las que trabajo
 
