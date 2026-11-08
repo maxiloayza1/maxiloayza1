@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Maxi Loayza
 
-<!--
-**maxiloayza1/maxiloayza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CEO de [GuanaCode Web Design](https://guanacode.com.ar/)** | Ingeniero en Informatica | Desarrollador web freelance | Jujuy, Argentina
 
-Here are some ideas to get you started:
+## Que hago
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Diseno y desarrollo sistemas y sitios web a medida: aplicaciones para organismos publicos, salud y comercio, plataformas SaaS, asistentes de IA para WhatsApp y herramientas de gestion.
+
+## Areas en las que trabajo
+
+- Sistemas de gestion y administracion (Django, Node.js, .NET)
+- Plataformas SaaS y aplicaciones web (Next.js, TypeScript, PostgreSQL)
+- Agentes de IA y automatizacion de ventas por WhatsApp
+- PWA, experiencias WebXR y herramientas propias
+
+## Tecnologias
+
+Python, Django, JavaScript, TypeScript, Next.js, Node.js, PHP, C#, SQL Server, PostgreSQL, MySQL, Docker.
+
+## Contacto
+
+- Web: https://guanacode.com.ar/
+- Mis proyectos: proximamente
